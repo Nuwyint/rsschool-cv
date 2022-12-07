@@ -5,18 +5,21 @@
 * **Telegram**: @nuwyint
 * **GitHub**: nuwyint
 * **Discord**: nuwyint
-***
+*****
 ## About me
 I am 18 years old, I am studying at the university in the direction of software engineering. I am currently working on python courses for children.
-***
+
+*****
 ## Skills
 * HTML 5
 * Python
 * C++
-***
+
+*****
 ## Education
 Tambov State Technical University, Information and Computer Engineering (2022-present)
-***
+
+*****
 ## Code example
 *the algorithm of perfix sums* solution from codewars 
 ```f = open('f.txt')
@@ -37,7 +40,8 @@ for i in range(1, n):
     minsum = min(minsum, price)
 print(minsum)
 ```
-***
+
+******
 ## Special skills 
 * Language
     + English - C1
